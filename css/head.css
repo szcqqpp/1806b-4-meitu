@@ -13,7 +13,7 @@
     float: left;
     width: 182px;
     height: 36px;
-    background: url(../publicimg/meitu_new.png) no-repeat;
+    background: url(../images/meitu_new.png) no-repeat;
     background-size: 180px 32px;
     margin: 37px 0 0;
 }
@@ -50,6 +50,12 @@
 .header .header-in .lang a{
 	color: #8e9090;
 	margin:0 13px;
+}
+#ment{
+	width: 100%
+}
+#ment img{
+	width: 100%
 }
 
 
