@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    width: 1200px;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+.content .img{
+    width: 1100px;
+    height: 400px;
+    margin: 0 auto;
+}
+.content .listul{
+    width: 1200px;
+    height: auto;
+    margin-top: 20px;
+    /* border: 1px solid red; */
+}
+.content .listul .top{
+    width: 1200px;
+    height: 30px;
+    line-height: 30px;
+    border-bottom: 1px solid #dadbdc;
+}
+.content .listul .top h2{
+    font-size: 18px;
+    color: #4E5153;
+    padding-left: 10px;
+    height: 25px;
+    line-height: 25px;
+    font-weight: 400;
+    border-left: 2px solid #FF569C;
+}
+.content .listul .bottom{
+    width: 1200px;
+    height: 135px;
+    
+}
