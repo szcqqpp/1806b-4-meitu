@@ -4,7 +4,6 @@
 }
 .content{
     width: 1200px;
-    border: 1px solid red;
     margin: 0 auto;
 }
 .content .img{
@@ -13,15 +12,15 @@
     margin: 0 auto;
 }
 .content .listul{
-    width: 1200px;
+    width: 1100px;
     height: auto;
-    margin-top: 20px;
-    /* border: 1px solid red; */
+    margin: 0 auto;
 }
 .content .listul .top{
-    width: 1200px;
+    width: 1100px;
     height: 30px;
     line-height: 30px;
+    padding: 40px 0 10px;
     border-bottom: 1px solid #dadbdc;
 }
 .content .listul .top h2{
@@ -34,7 +33,24 @@
     border-left: 2px solid #FF569C;
 }
 .content .listul .bottom{
-    width: 1200px;
+    width: 1100px;
     height: 135px;
-    
+}
+.content .listul .bottom ul li{
+    width: 250px;
+    height: 104px;
+    float: left;
+    padding: 20px 0 10px 10px;
+}
+.content .listul .bottom ul li h3{
+    font-size: 16px;
+    color: #4E5153;
+    font-weight: 400;
+    line-height: 18px;
+    padding: 6px 0 14px;
+}
+.content .listul .bottom ul li p{
+    font-size: 14px;
+    color: #85888B;
+    line-height: 22px;
 }
