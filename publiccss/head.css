@@ -5,5 +5,51 @@
 }
 .header .header-in{
 	width: 1200px;
-	
+	height: 105px;
+	margin: 0 auto;
 }
+.header .header-in .logn{
+	display: block;
+    float: left;
+    width: 182px;
+    height: 36px;
+    background: url(../publicimg/meitu_new.png) no-repeat;
+    background-size: 180px 32px;
+    margin: 37px 0 0;
+}
+/*.header .header-in .logn{
+	width: 116px;
+    background: url(../publicimg/home_enicon.png) 0 no-repeat;
+}*/
+.header .header-in .nav{
+	float: left;
+	margin-left: 36px;
+	margin-right: 34px;
+}
+.header .header-in .nav li{
+	float: left;
+}
+.header .header-in .nav li a{
+	display: block;
+	padding: 41px 22px;
+	font-size: 16px;
+	color: #4e5153;
+}
+.header .header-in .nav li a:hover{
+	color: #e62877;
+}
+.header .header-in .lang{
+	float: left;
+	font-size: 14px;
+	color: #8e9090;
+	width: 100px;
+	height: 14px;
+	margin: 46px 0 0;
+	line-height: 14px;
+}
+.header .header-in .lang a{
+	color: #8e9090;
+	margin:0 13px;
+}
+
+

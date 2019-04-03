@@ -1,0 +1,38 @@
+.footer{
+	width: 100%;
+	background: #313033;
+	zoom:1;
+}
+.footer .foottop{
+	width: 966px;
+	padding: 50px 102px 81px;
+	margin: 0 auto;
+	height: 173px;
+}
+.footer .foottop ul{
+	float: left;
+	margin-right: 94px;
+}
+.footer .foottop ul li{
+	margin-bottom: 5px;
+}
+.footer .foottop ul .title{
+	margin-bottom: 19px;
+    color: #a7adaf;
+    font-size: 16px;
+}
+.footer .foottop ul li a{
+	color: #787b7c;
+    font-size: 14px;
+}
+.footer .footbot{
+	padding: 21px 0;
+    background-color: #262527;
+    color: #868A8C;
+    text-align: center;
+    font-size: 14px;
+    color: #b7b7b7;
+}
+.footer .footbot p a{
+	color: #b7b7b7;
+}
