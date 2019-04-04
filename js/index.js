@@ -1,5 +1,5 @@
 $(function(){
 	$(".but").click(function(){
-		$("#ment").load("teachingObjectives.html");
+		$("#ment").load("contact.html");
 	})
 })
