@@ -10,9 +10,9 @@
 .box .ment .left{
 	width: 640px;
 	height: 788px;
-	background: red;
     margin-right: 60px;
     float: left;
+    text-align: center;
 }
 .box .ment .right{
 	float: left;
