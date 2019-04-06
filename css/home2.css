@@ -13,6 +13,7 @@
     margin-right: 60px;
     float: left;
     text-align: center;
+    position: relative;
 }
 .box .ment .right{
 	float: left;
