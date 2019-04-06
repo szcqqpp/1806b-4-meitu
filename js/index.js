@@ -1,12 +1,8 @@
 $(function(){
-	$("#ment").load("indexcon.html");
+	$("#ment").load("home0.html");
 	$(".but").click(function(){
 		var num = $(this).index()
-		if (num == 0) {
-			$("#ment").load("indexcon.html");
-		}
-		if (num == 5) {
-			$("#ment").load("contact.html");
-		};
+		console.log(num)
+		$("#ment").load("home"+num+".html");
 	})
 })
