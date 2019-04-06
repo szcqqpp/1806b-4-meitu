@@ -1,6 +1,6 @@
 $(function(){
 	$(".mentbox a").click(function(){
 		$(this).addClass("set").siblings().removeClass("set");
-		// $("#home1").load("home"+num+".html");
+		$("#home4").load("home4-nav"+num+".html");
 	})
 })
