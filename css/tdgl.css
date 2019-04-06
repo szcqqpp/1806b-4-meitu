@@ -1,0 +1,64 @@
+h2{
+	text-align:center;
+	font-weight:200;
+	
+
+}
+.clear{
+	zoom:1;
+	width: 1100px;
+	height: 315px;
+	margin: 0 auto;
+}
+.fix{
+	
+	width:548px;
+	float: left;
+
+}
+.pic{
+	width:184px;
+	height:230px;
+	margin-left:100px;
+	margin-top:30px;
+}
+.fix2{
+	width: 254px;
+    padding: 20px 0 20px 30px;
+    color: #6E7173;
+    position: relative;
+}
+.fix2 h2{
+    font-size: 22px;
+    line-height: 24px;
+    margin: 0 0 10px;
+    position: absolute;
+    left: 281px;
+    top: -219px;
+    width: 111px;
+}
+em{
+	position:absolute;
+	left:16px;
+	top:46px;
+	width:1px;
+	height:56px;
+	color:grey;
+}
+h2{
+	font-size:22px;
+	line-height:24px;
+	margin:0  0 10px;
+}
+
+.team-position {
+    width: 254px;
+    height: 44px;
+    margin: 0 0 16px;
+    display: table;
+    position: absolute;
+    left: 310px;
+    top: -198px;
+    font-weight: 200;
+    font-size: 15px;
+}
