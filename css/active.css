@@ -1,0 +1,73 @@
+.content{
+    width: 1200px;
+    height: auto;
+    margin: 0 auto;
+}
+.content .future{
+    width: 1100px;
+    margin: 0 auto;
+    position: relative;
+    border: 1px solid #d6d6d6;
+    margin-top: 32px;
+    margin-bottom: 54px;
+}
+.content .future h3{
+    font-size: 26px;
+    position: absolute;
+    top: -13px;
+    left: 20px;
+    font-weight: 400;
+    padding: 0 13px;
+    line-height: 1;
+    color: #3e4143;
+    background-color: white;
+}
+.content .future ul li{
+    width: 1030px;
+    border-bottom: 1px dotted #c8c8c8;
+    margin: 50px auto;
+}
+.content .future ul li p{
+    color: #a3a7aa;
+    font-size: 14px;
+    margin-bottom: 19px;
+    width: 780px;
+}
+.content .future ul li h4{
+    font-weight: 400;
+    font-size: 18px;
+    color: #4e5153;
+}
+.content .future table{
+    width: 100%;
+    margin: 30px 0;
+}
+.content .future table tr{
+    display: block;
+    margin: 0 auto;
+    width:1030px;
+    height: 58px;
+    border-bottom: 1px dashed #c1c4c5;
+}
+.content .future table tr.otr{
+    background-color: #f8f8f8;
+}
+.content .future table tr td{
+    width: 343px;
+    height: 58px;
+    font-size: 14px;
+    color: #6f7275;
+    text-align: left;
+    padding: 0 0 0 12px;
+}
+.content .future table tr td.tit{
+    font-weight: 700;
+}
+.content .future .op{
+    width: 1030px;
+    line-height: 26px;
+    font-size: 14px;
+    color: #6f7275;
+    margin: 0 auto;
+    padding: 30px 0 50px;
+}
