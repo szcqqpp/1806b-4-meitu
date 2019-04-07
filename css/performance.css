@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.width{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 30px;
+}
+li{
+    list-style: none;
+}
+fieldset{
+    border: 1px solid rgb(190, 190, 190);
+    padding: 30px;
+}
+legend{
+    font-size: 25px;
+    margin-left:20px;
+    padding: 10px; 
+}
+fieldset .years{
+    width:80px;
+    height: 45px;
+    float: right;
+    color: rgb(133, 133, 133);
+    font-size: 18px;
+    text-align: center;
+    line-height: 45px;
+    cursor: pointer;
+}
+fieldset .years:hover{
+    border-bottom:1px rgb(133, 133, 133) solid;
+}
+fieldset .box1{
+    width: 100%;
+    height: 200px;
+    float: right;
+    margin-top: 40px;
+}
+fieldset .yeji{
+    width: 220px;
+    height: 188px;
+    padding: 0 30px;
+    float: left;
+    border-left: 1px dotted #ddd;
+}
+fieldset .yeji1{
+    border-left: 0;
+}
+fieldset .yeji h3{
+    font-size: 25px;
+    font-weight: normal;
+    color: rgb(44, 44, 44);
+}
+fieldset .yeji p{
+    line-height: 50px;
+    color: rgb(165, 165, 165);
+}
+fieldset .yeji p a{
+    color: rgb(133, 133, 133);
+    text-decoration: none;
+}
+fieldset .yeji p a:hover{
+    border-bottom:1px rgb(133, 133, 133) solid;
+}
+fieldset .yeji p i{
+    width: 30px;
+    height:40px;
+    float: left;
+    margin: 5px 3px;
+    background: url(../images/pdf.png); 
+}
+.box2 img{
+    margin:20px 40px;
+}
+form{
+    text-align: center;
+    color: rgb(139, 139, 139);
+}
+form input{
+    margin-right: 90px;
+    height: 23px;
+    width: 200px;
+}
+form button{
+    color: #fff;
+    width: 150px;
+    height: 35px;
+    background-color: rgb(255, 90, 173);
+    border-radius: 5px;
+    border: 0;
+}
