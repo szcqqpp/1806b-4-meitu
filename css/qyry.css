@@ -1,0 +1,73 @@
+*{
+	padding: 0px;
+	margin: 0 auto;
+}
+.qb{
+	width: 1200px;
+}
+.top{
+	height: 500px;
+}
+.top h2{
+	font-family: "宋体";
+	text-align: center;
+}
+.mtsj{
+	width: 353px;
+	float: left;
+	padding-left: 40px;
+	color: #8e9090;
+}
+.mtsj img{
+	width: 353px;
+}
+.bjys{
+	width: 265px;
+    height: 70px;
+    color: #8e9090;
+    padding: 24px 35px;
+    background: #f2f2f5;
+}
+.abq{
+	display: inline-block;
+	float: right;
+	color: #4E5153;
+	text-decoration: none;
+}
+.zr{
+	margin-top: 30px;
+}
+.button{
+	margin-top: 40px;
+	width: 1200px;
+	height: 430px;
+}
+.left{
+	width: 410px;
+    height: 400px;
+    float: left;
+    background: #f2f2f5;
+}
+.left h2{
+    line-height: 30px;
+    font-size: 30px;
+    color: #3e4143;
+}
+.left p{
+	height: 190px;
+    color: #85888b;
+    font-size: 16px;
+    line-height: 24px;
+    -webkit-line-clamp: 8;
+}
+.left a{
+    color: #4E5153;
+	text-decoration: none;
+	position: relative;
+	left: 360px;
+	top: 70px;
+}
+h2{
+	font-family: "宋体";
+	text-align: center;
+}
