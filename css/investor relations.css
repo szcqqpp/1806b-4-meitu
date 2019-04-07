@@ -90,3 +90,25 @@ em { font-style:normal; }
 #main .content fieldset .years:hover{
     background-color: rgb(230, 67, 148);
 }
+#main .content fieldset .table{
+    width: 100%;
+    margin-top: 100px;
+}
+#main .content fieldset .table #table{
+    width: 100%;
+}
+#main .content fieldset .table #table li{
+    border-bottom: 1px dashed #bbb;
+    line-height: 40px;
+}
+#main .content fieldset .table #table li span{
+    width: 300px;
+    margin: 100px;
+}
+i{
+    display: inline-block;
+    width: 30px;
+    height:40px;
+    margin: 5px 3px;
+    background: url(../images/pdf.png); 
+}
