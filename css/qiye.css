@@ -1,0 +1,123 @@
+.content{
+    width: 1200px;
+    margin: 0 auto;
+}
+.content .board{
+    width: 1100px;
+    height: 404px;
+    margin: 0 auto;
+    margin-bottom: 45px;
+}
+.content .board h3{
+    font-size: 26px;
+    font-weight: 400;
+    width: 1006px;
+    height: 38px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+.content .board .clear{
+    width: 1006px;
+    height: 108px;
+    margin: 0 auto;
+}
+.content .board .clear .mod{
+    float: left;
+    width: 29%;
+    margin-bottom: 50px;
+    font-size: 20px;
+    color: #3e4143;
+    cursor: pointer;
+    margin-right: 3.5%;
+}
+.content .board .clear .mod h4{
+    font-weight: 400;
+    font-size: 100%;
+}
+.content .board .clear .mod p{
+    font-size: 16px;
+    color: #a3a7aa;
+    display: inline-block;
+    background: url(images/img01.png) no-repeat 140px;
+    width: 313px;
+}
+.content .board .clear .mod img{
+    margin-top: 5px;
+}
+.content .board .clear .mod p:hover{
+    background: url(images/img02.png) no-repeat 140px 2px;
+}
+.content .board .clear .mod .p:hover{
+    background: url(images/img02.png) no-repeat 160px 2px;
+}
+.content .future{
+    width: 1100px;
+    margin: 0 auto;
+    position: relative;
+    border: 1px solid #d6d6d6;
+    margin-top: 32px;
+    height: 535px;
+    margin-bottom: 54px;
+}
+.content .future h3{
+    font-size: 26px;
+    position: absolute;
+    top: -13px;
+    left: 20px;
+    font-weight: 400;
+    padding: 0 13px;
+    line-height: 1;
+    color: #3e4143;
+    background-color: white;
+}
+.content .future .th{
+    width: 1025px;
+    height: 30px;
+    margin: 40px auto;
+}
+.content .future .th span{
+    display: inline-block;
+    float: left;
+    line-height: 30px;
+    font-size: 14px;
+    color: #6f7275;
+    margin-left: 10px;
+}
+.content .future .th .last{
+    float: right;
+    height: 30px;
+    margin-right: 20px;
+}
+.content .future ul{
+    width: 1025px;
+    height: 427px;
+    margin: -35px auto;
+}
+.content .future ul li{
+    width: 1025px;
+    height: 60px;
+    border-bottom: 1px dotted #bbb;
+}
+.content .future ul li a{
+    display: inline-block;
+    font-size: 14px;
+    color: #6f7275;
+    float: left;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.content .future ul li span{
+    display: inline-block;
+    float: right;
+    font-size: 14px;
+    color: #6f7275;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+.content .future ul li span img{
+    float: left;
+}
+.content .future ul li span b{
+    margin-top: 5px;
+    display: inline-block;
+}
