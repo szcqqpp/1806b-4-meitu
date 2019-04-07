@@ -1,5 +1,5 @@
 <?php
-$con = mysqli_connect("location","root","");
+$con = mysqli_connect("localhost","root","");
 if (!$con) {
 	die("数据库连接失败!".mysqli_error($con));
 }
