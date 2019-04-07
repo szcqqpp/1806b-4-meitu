@@ -14,9 +14,9 @@ ul{
 	transition:all 1s;
 }
 .warp,.warp1{
-	width: 800px;
-	height: 450px;
-	margin: 100px auto;
+	width: 1101px;
+	height: 432px;
+	margin: 20px auto;
 	position: relative;
 	overflow: hidden;
 }
@@ -28,8 +28,8 @@ ul{
 	top: 33px;
 }
 .oImg1 li,.oImg2 li,.oImg1 li img,.oImg2 li img{
-	width: 1100px;
-	height: 430px;
+	width: 1130px;
+	height: 432px;
 	float: left;
 }
 .img-index{
