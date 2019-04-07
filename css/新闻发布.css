@@ -1,0 +1,115 @@
+.content{
+    width: 1200px;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+.content .mod{
+    width: 1100px;
+    height: 1884px;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+.content .mod .list{
+    width: 363px;
+    height: 36px;
+    float: right;
+    border: 1px solid red;
+}
+.content .mod .list .fr{
+    width: 164px;
+    height: 34px;
+    border: 1px solid #b8b8b8;
+    border-radius: 3px;
+    position: relative;
+    margin-right: 5px;
+}
+.content .mod .list .fr a{
+    display: block;
+    height: 34px;
+    line-height: 34px;
+    font-size: 14px;
+    color: #b8b8b8;
+    text-indent: 5px;
+}
+.content .mod .list .fr i{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 16px;
+    height: 15px;
+    background-size: 16px;
+    background: url(../images/images01.png) no-repeat;
+}
+.content .mod .bottom{
+    width: 1100px;
+    height: 1804px;
+    margin-top: 50px;
+    border: 1px solid red;
+}
+.content .mod .bottom ul li{
+    width: 1100px;
+    height: 348px;
+}
+.content .mod .bottom ul li .under{
+    width: 500px;
+    height: 348px;
+    float: left;
+    background-color: #F2F2F5;
+}
+.content .mod .bottom ul li .under .left{
+    width: 380px;
+    height: 278px;
+    margin: 35px 45px;
+}
+.content .mod .bottom ul li .under .left h3{
+    display: block;
+    font-size: 28px;
+    width: 100%;
+    color: #b7bbbe;
+    margin: 0 0 20px;
+    font-weight: 400;
+}
+.content .mod .bottom ul li .under .left h4{
+    display: block;
+    font-size: 22px;
+    line-height: 30px;
+    color: #4e5153;
+    font-weight: 400;
+}
+.content .mod .bottom ul li .under .left p{
+    line-height: 24px;
+    color: #85888b;
+    font-size: 14px;
+    margin-top: 15px;
+}
+.content .mod .bottom ul li .under .left .get{
+    position: relative;
+}
+.content .mod .bottom ul li .under .left .get a{
+    width: 90px;
+    font-size: 14px;
+    line-height: 14px;
+    color: #4e5153;
+    position: absolute;
+    top: 80px;
+}
+.content .mod .bottom ul li .under .left .get i{
+    width: 10px;
+    height: 14px;
+    font-size: 14px;
+    line-height: 12px;
+    color: #f65e9d;
+    display: inline-block;
+    position: absolute;
+    top: 80px;
+    left: 60px;
+}
+.content .mod .bottom ul li .right{
+    width: 600px;
+    height: 348px;
+    float: right;
+}
+.content .mod .bottom ul li .right img{
+    width: 600px;
+    height: 348px;
+}
