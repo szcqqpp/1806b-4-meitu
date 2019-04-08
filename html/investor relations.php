@@ -4,7 +4,7 @@ if (!$con) {
 	die("数据库连接失败!".mysqli_error($con));
 }
 // 选择要链接的的数据库
-mysqli_select_db($con,"cangku1");
+mysqli_select_db($con,"meitu");
 // 设置数据库字符编码
 mysqli_set_charset($con,"utf8");
 // 查询数据库

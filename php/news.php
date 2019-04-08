@@ -3,7 +3,7 @@ include_once "conc.php";
 if ($_SERVER["REQUEST_METHOD"] == "GET") {
 	$page = $_GET["page"];
 }
-$pageSize = 4;
+$pageSize = 5;
 $querySty = "SELECT * FROM news order by id limit ".($page-1)*$pageSize.",$pageSize";
 $stet = mysqli_query($con,$querySty);
 if (!$stet) {
