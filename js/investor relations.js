@@ -9,7 +9,7 @@ $(function () {
             $(".box1 .class ul").css("display", "none");
         }
     });
-    $.get("../html/investor relations.php", function (data) {
+    $.get("../php/investor relations.php", function (data) {
         var datalist = JSON.parse(data).data;
         for (var i = 0; i < datalist.length; i++) {
             var listr = "<li><span>" + datalist[i].create_date + "</span><span>" + datalist[i].title + "</span><span><i></i> 下载PDF文件 </span></li>";
