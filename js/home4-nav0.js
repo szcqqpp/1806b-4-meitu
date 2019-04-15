@@ -19,4 +19,12 @@ $(function(){
 			$("#temp").html(str);
 		})
 	}
+	$(".fr a:eq(0)").click(function(){
+		$(".listul").eq(0).show();
+		$(".listul").eq(1).hide();
+	})
+	$(".fr a:eq(1)").click(function(){
+		$(".listul").eq(1).show();
+		$(".listul").eq(0).hide();
+	})
 })

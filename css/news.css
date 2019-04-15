@@ -39,6 +39,29 @@
     background-size: 16px;
     background: url(../images/images01.png) no-repeat;
 }
+.content .mod .list .fr .listul{
+    display: none;
+    width: 164px;
+    position: absolute;
+    top: 42px;
+    left: 0;
+    border: 1px solid #b8b8b8;
+    background-color: white;
+    z-index: 10;
+}
+.content .mod .list .fr .listul li{
+    line-height: 20px;
+    background-color: white;
+    cursor: pointer;
+    padding: 5px 3px;
+    font-size: 14px;
+    color: #b8b8b8;
+    text-indent: 5px;
+}
+.content .mod .list .fr .listul li:hover{
+    color: white;
+    background-color: #ff569c;
+}
 .content .mod .bottom{
     width: 1100px;
     clear: both;
