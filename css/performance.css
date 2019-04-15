@@ -82,6 +82,7 @@ form input{
     margin-right: 90px;
     height: 23px;
     width: 200px;
+    border: 1px solid rgb(170, 170, 170); 
 }
 form button{
     color: #fff;
